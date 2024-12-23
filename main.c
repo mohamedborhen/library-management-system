@@ -1,5 +1,3 @@
-           /*     bibliotheque ENSI    */
-
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX_QUEUE_SIZE 1000
